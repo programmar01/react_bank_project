@@ -46,34 +46,34 @@ const Footer = () => {
 
       <div className="flex items-center justify-between md:flex-row flex-col gap-5 pt-10 mt-10 sm:mt-16 border-t">
         <p className="md:text-base xs:text-sm text-xs">
-          Copyright Ⓒ {date} Naseem Khan. All Rights Reserved.
+          Copyright Ⓒ {date} Mate Dolidze. All Rights Reserved.
         </p>
         <div>
           <div className="flex items-center gap-3 xs:gap-5 text-lg xs:text-xl">
             <SocialMedia
               icon={<SiGithub />}
               name="github"
-              link="https://github.com/NaseemKhan005/"
+              link="https://github.com/programmar01"
             />
             <SocialMedia
               icon={<SiLinkedin />}
               name="linkedin"
-              link="https://www.linkedin.com/in/naseem-khan-275275258/"
+              link="https://www.linkedin.com/in/mate-dolidze-986053265/"
             />
             <SocialMedia
               icon={<TbBrandFiverr />}
               name="fiverr"
-              link="https://www.fiverr.com/naseemsafay?up_rollout=true"
+              link="https://www.fiverr.com/mate_dolidze?up_rollout=true"
             />
-            <SocialMedia
+            {/* <SocialMedia
               icon={<SiUpwork />}
               name="upWork"
-              link="https://www.upwork.com/freelancers/~01a320b86f9044dd91"
-            />
+              link=""
+            /> */}
             <SocialMedia
               icon={<SiFreelancer />}
               name="freelancer"
-              link="https://www.freelancer.com/u/naseemsaffy"
+              link="https://www.freelancer.com/u/mateDolidze"
             />
           </div>
         </div>
