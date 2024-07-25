@@ -21,7 +21,7 @@ const Footer = () => {
     <section className="relative font-poppins pb-10 sm:pb-16">
       <div className="flex items-start md:flex-row flex-col gap-10 md:gap-24">
         <div className="md:max-w-[370px]">
-          <h2 className="text-3xl">Naseem.</h2>
+          <h2 className="text-3xl">Mate.</h2>
           <p className="text-dimWhite leading-relaxed text-base ss:text-lg mt-5">
             A new way to make the payments easy, reliable and secure.
           </p>
