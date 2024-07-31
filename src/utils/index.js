@@ -25,7 +25,7 @@ export const testimonials = [
     about:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
     image: person1,
-    name: "Sophia Anne",
+    name: "Nino Kurtsua",
     title: "Founder & Leader",
   },
   {
@@ -33,7 +33,7 @@ export const testimonials = [
     about:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
     image: person2,
-    name: "Steve Smith",
+    name: "Mate Dolidze",
     title: "CEO",
   },
   {
@@ -41,7 +41,7 @@ export const testimonials = [
     about:
       "It is usually people in the money business and international trade that are really rich.",
     image: person3,
-    name: "Jasmine Florence",
+    name: "Davit Dolidze",
     title: "Founder & Leader",
   },
 ];
